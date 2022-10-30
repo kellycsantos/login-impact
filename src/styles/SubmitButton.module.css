@@ -1,5 +1,7 @@
 .button{
-    background: rgb(0, 153, 153);
+    background: #00b6b6;
+    color: #ffffff;
+    font-weight: 600;
     height: 45px;
     width: 185px;
     margin-top: 25px;
